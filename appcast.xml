@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nib</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 03 Sep 2026 21:01:03 -0400</pubDate>
+            <link>https://zndrrmr.github.io/nib-releases/</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[First TestFlight and direct Mac release. Gemma 4 is the sole handwriting recognizer. Includes iPhone and iPad installation support, secure Mac key storage, and automatic Mac updates.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/nib-releases/releases/download/v0.1.0-build.4/Nib.zip" length="1827355" type="application/octet-stream" sparkle:edSignature="6BdLEa1XYaEhltryLFgk4yF7tcJz3IDTCdd0l5n2GSDx6Ix35hhGegBr7EIcqhMLkGAVW8Hvdb90PIz68clUCQ=="/>
+        </item>
+    </channel>
+</rss>
