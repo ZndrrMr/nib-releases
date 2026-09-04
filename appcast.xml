@@ -4,6 +4,17 @@
         <title>Nib</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 03 Sep 2026 21:39:33 -0400</pubDate>
+            <link>https://zndrrmr.github.io/nib-releases/</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fix Mac control permission detection, recover cached grants, and clear stale permission warnings on iPad. Development builds now use a separate identity so they cannot replace release permission records.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/nib-releases/releases/download/v0.1.0-build.5/Nib.zip" length="1849347" type="application/octet-stream" sparkle:edSignature="u6XiidkWlHV7tVpeM1E2nCrBMhkzppigKiZUldCBLCJVgnnLQ+fRQCogFwIojNtHgm8bx91AV/Hast/W6PTADg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 03 Sep 2026 21:01:03 -0400</pubDate>
             <link>https://zndrrmr.github.io/nib-releases/</link>
             <sparkle:version>4</sparkle:version>
