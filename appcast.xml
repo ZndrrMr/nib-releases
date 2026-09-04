@@ -4,6 +4,17 @@
         <title>Nib</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Fri, 04 Sep 2026 12:11:13 -0400</pubDate>
+            <link>https://zndrrmr.github.io/nib-releases/</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Adds private read-only timing diagnostics for your other Macs on the same Tailscale account, so iPad and Mac input delays can be investigated without copying logs. Includes connection-interface and display-cadence information. No writing, shortcut contents, or pointer positions are shared.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/nib-releases/releases/download/v0.1.0-build.10/Nib.zip" length="2093857" type="application/octet-stream" sparkle:edSignature="9XMctBhXK67Dz8lW+QF8j9YF+WpvyFVCK5C0zrLtG53tk/iHeffcQrxKcrY4Wmdq86kTIoEQgmycHqtnmQ/6CQ=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 04 Sep 2026 11:43:00 -0400</pubDate>
             <link>https://zndrrmr.github.io/nib-releases/</link>
             <sparkle:version>9</sparkle:version>
