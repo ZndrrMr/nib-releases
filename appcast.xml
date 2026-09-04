@@ -4,6 +4,17 @@
         <title>Nib</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Fri, 04 Sep 2026 11:43:00 -0400</pubDate>
+            <link>https://zndrrmr.github.io/nib-releases/</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fixes unresponsive Mac window buttons and menus after launch. Settings, Edit shortcuts, and shortcut recording respond to mouse and keyboard input again.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/nib-releases/releases/download/v0.1.0-build.9/Nib.zip" length="2022600" type="application/octet-stream" sparkle:edSignature="rPT+f4bKHUR0F17d6jPfGTGXvKxcrUlq+queUIOpb2eZiumAdceYcnsZxJ4xeKJD9X5EPThGJZ3fIazx1aOMBQ=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 04 Sep 2026 10:57:34 -0400</pubDate>
             <link>https://zndrrmr.github.io/nib-releases/</link>
             <sparkle:version>8</sparkle:version>
