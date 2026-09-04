@@ -4,6 +4,21 @@
         <title>Nib</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 03 Sep 2026 23:46:56 -0400</pubDate>
+            <link>https://zndrrmr.github.io/nib-releases/</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Pointer movement now preserves input order and accumulates correctly during bursts. Pointer speed supports up to 12×, with optional adaptive smoothing. Finger scrolling gains smoothing and optional momentum, and Pencil taps tolerate more drift while pressure dragging remains available.
+
+Squeeze Apple Pencil Pro, or tap the Command button beside Control and Write, for Dictate, Return, Copy, Paste, Undo, and Select All. Pointer speed and drag pressure now use compact graphite slider popovers.
+
+Update Nib on both your iPad or iPhone and Mac for this build.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/nib-releases/releases/download/v0.1.0-build.6/Nib.zip" length="1869463" type="application/octet-stream" sparkle:edSignature="N+uPLPW/Anfhh5A2hdQxKT7G+P7gQ22qShpuDNeWFWpUi8yy4HFaZDNOr3OhX6deS3fOYiqslDbQCMFPLZV1Cg=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 03 Sep 2026 21:39:33 -0400</pubDate>
             <link>https://zndrrmr.github.io/nib-releases/</link>
             <sparkle:version>5</sparkle:version>
