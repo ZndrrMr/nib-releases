@@ -4,6 +4,17 @@
         <title>Nib</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sat, 05 Sep 2026 10:04:28 -0400</pubDate>
+            <link>https://zndrrmr.github.io/nib-releases/</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Repairs pointer and scroll pacing after display changes or sleep, with automatic recovery if the Mac display callback stalls.
+]]></description>
+            <enclosure url="https://github.com/ZndrrMr/nib-releases/releases/download/v0.1.0-build.13/Nib.zip" length="2121004" type="application/octet-stream" sparkle:edSignature="q/vlidAOE/l7+vUwmVlyIHY3SbnBIeOG9mfTiYmHhTL4OzoVDW3Njx5T55x71as/3UikJLaheOqm4xxMn0yABQ=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Fri, 04 Sep 2026 15:22:01 -0400</pubDate>
             <link>https://zndrrmr.github.io/nib-releases/</link>
             <sparkle:version>12</sparkle:version>
